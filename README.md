@@ -59,3 +59,13 @@ Open the link shown in the terminal (usually http://localhost:5173).
 ## Author
 **Umesh Wakadkar**
 GitHub: [UmeshWakadkar](https://github.com/UmeshWakadkar)
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Home
+![Home](screenshots/home.png)
+
+### Add Note
+![Add Note](screenshots/add-note.png)
